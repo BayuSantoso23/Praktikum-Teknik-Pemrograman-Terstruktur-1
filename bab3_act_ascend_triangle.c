@@ -22,9 +22,9 @@ int main()
                ekspresi kedua seleksi kondisi variabel j kurang dari sama dengan variabel k
                ekspresi ketiga variabel j increment
             */
-            for (j = i; j <= k; j++){
+            for (j = 1; j <= k; j++){
                 // Mencetak simbol *
-                printf("*");
+                printf("* ");
             }
             // Mencetak baris baru
             printf("\n");
