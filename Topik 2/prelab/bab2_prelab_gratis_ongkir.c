@@ -6,7 +6,7 @@ int main()
 	float totalBelanja, gratisOngkir;
 
     // Menampilkan output dan melakukan input ke variabel totalBelanja
-  	printf("Masukkan total belanja Anda : Rp. \n");
+  	printf("Masukkan total belanja Anda : Rp. ");
   	scanf("%f", &totalBelanja);
 
     // Block statement if, jika totalBelanja lebih besar atau sama dengan 75000 maka akan mendapatkan ongkir

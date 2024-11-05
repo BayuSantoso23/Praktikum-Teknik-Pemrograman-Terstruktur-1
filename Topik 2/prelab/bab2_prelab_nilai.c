@@ -8,10 +8,10 @@ int main()
     // Mencetak output dan meminta input ke pengguna
     printf("Masukkan nilai yang berbeda pada kedua nilai berikut!\n");
     
-	printf("Nilai final Bella : \n");
+	printf("Nilai final Bella : ");
 	scanf("%i", &nilaiBella);
 	
-	printf("Nilai final Arthur : \n");
+	printf("Nilai final Arthur : ");
 	scanf("%i", &nilaiArthur );
 	printf("\n");
 

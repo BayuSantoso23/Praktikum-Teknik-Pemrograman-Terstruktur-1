@@ -11,7 +11,7 @@ int main()
 	int nilai;
     
     // Mencetak output dan memasukkan nilai ke variabel
-	printf("Masukkan nilai rata-rata Mahasiswa:\n");
+	printf("Masukkan nilai rata-rata Mahasiswa:");
 	scanf("%d", &nilai);
     
     // Mencetak output bobot nilai

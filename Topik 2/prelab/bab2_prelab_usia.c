@@ -6,7 +6,7 @@ int main()
     int umur;
     
     // Menampilkan output berupa kalimat dan input nilai ke variabel umur
-    printf("Silahkan masukkan umur: \n");
+    printf("Silahkan masukkan umur:");
     scanf("%d", &umur);
 
     // Block if jika umur lebih besar dari 11 maka dapat divaksin

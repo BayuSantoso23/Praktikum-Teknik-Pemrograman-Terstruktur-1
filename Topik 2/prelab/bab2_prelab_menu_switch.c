@@ -10,7 +10,7 @@ int main()
     printf("1. Nasi + ayam + es teh manis \n");
     printf("2. Nasi + ayam + tempe + es teh manis \n");
     printf("3. Nasi + ayam + tempe tahu + es jeruk peras \n\n");
-    printf("Masukkan nomor menu (1-3) = \n");
+    printf("Masukkan nomor menu (1-3) = ");
     scanf("%d", &angka);
     
     // Perulangan switch dengan dua buah case
