@@ -35,7 +35,7 @@ int main()
         // Iterasi indeks ketiga (k)
         for(int tiga = 0;tiga<1;tiga++)
         {
-            printf("Hari ke-%d | Sesi ke-%d = %s\n", i+1,j+1,data_mhs[i][j][k++]);
+            printf("Hari ke-%d | Sesi ke-%d = %s\n", i+1,j+1,data_mhs[i][j][k]);
         }
 
   return 0;
